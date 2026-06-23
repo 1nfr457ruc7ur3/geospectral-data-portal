@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>IndexRidge geospatial data updates</title>
+    <link>https://1nfr457ruc7ur3.github.io/geospectral-data-portal/</link>
+    <description>Launch and update notes for IndexRidge geospatial data products.</description>
+    <item>
+      <title>IndexRidge UK Agricultural NDVI GeoTIFF Sample Layer is live</title>
+      <link>https://1nfr457ruc7ur3.github.io/geospectral-data-portal/</link>
+      <guid>https://1nfr457ruc7ur3.github.io/geospectral-data-portal/#gumroad-launch</guid>
+      <pubDate>Tue, 23 Jun 2026 10:08:04 +0000</pubDate>
+      <description>Ready-to-load Sentinel-2 derived UK agricultural NDVI GeoTIFF sample layer is available on Gumroad.</description>
+    </item>
+  </channel>
+</rss>
