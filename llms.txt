@@ -1,12 +1,16 @@
-# IndexRidge Sentinel-derived GeoTIFF catalog
+# IndexRidge global/regional Sentinel-derived GeoTIFF catalog
 
 Landing page: https://1nfr457ruc7ur3.github.io/geospectral-data-portal/
 
 Products:
+- IndexRidge UK Agricultural NDVI GeoTIFF Sample Layer (£19): https://indexridge.gumroad.com/l/indexridge-uk-agricultural-ndvi-geotiff-sample-layer — Sentinel-2 derived NDVI vegetation GeoTIFF sample layer with source metadata and processing notes.
 - IndexRidge UK Agricultural NDMI Moisture GeoTIFF Sample Layer (£19): https://indexridge.gumroad.com/l/indexridge-uk-agricultural-ndmi-moisture-geotiff-sample-layer — Sentinel-2 derived NDMI moisture GeoTIFF sample for UK agricultural GIS and crop-stress workflow testing.
 - IndexRidge UK Floodplain NDWI Water GeoTIFF Sample Layer (£19): https://indexridge.gumroad.com/l/indexridge-uk-floodplain-ndwi-water-geotiff-sample-layer — Sentinel-2 derived NDWI water-index GeoTIFF sample for UK floodplain/wetness GIS workflow testing.
 - IndexRidge UK Urban NDBI Built-Surface GeoTIFF Sample Layer (£19): https://indexridge.gumroad.com/l/indexridge-uk-urban-ndbi-built-surface-geotiff-sample-layer — Sentinel-2 derived NDBI built-surface GeoTIFF sample for UK urban GIS and land-use workflow testing.
-- IndexRidge UK Agricultural NDVI GeoTIFF Sample Layer (£19): https://indexridge.gumroad.com/l/indexridge-uk-agricultural-ndvi-geotiff-sample-layer — Sentinel-2 derived NDVI vegetation GeoTIFF sample layer with source metadata and processing notes.
+- IndexRidge Global Agriculture NDVI California GeoTIFF Sample Layer (£19): https://indexridge.gumroad.com/l/indexridge-global-agriculture-ndvi-california-geotiff-sample-layer — Sentinel-2 derived NDVI vegetation GeoTIFF sample for global agricultural GIS and crop-monitoring workflow testing, using a California Central Valley AOI.
+- IndexRidge Global Irrigated Agriculture NDMI Nile Delta GeoTIFF Sample Layer (£19): https://indexridge.gumroad.com/l/indexridge-global-irrigated-agriculture-ndmi-nile-delta-geotiff-sample-layer — Sentinel-2 derived NDMI moisture GeoTIFF sample for global irrigated-agriculture and crop-stress GIS workflow testing, using a Nile Delta AOI.
+- IndexRidge Global Water Body NDWI Lake Mead GeoTIFF Sample Layer (£19): https://indexridge.gumroad.com/l/indexridge-global-water-body-ndwi-lake-mead-geotiff-sample-layer — Sentinel-2 derived NDWI water-index GeoTIFF sample for global water-body and reservoir GIS workflow testing, using a Lake Mead AOI.
+- IndexRidge Global Urban NDBI Dubai Built-Surface GeoTIFF Sample Layer (£19): https://indexridge.gumroad.com/l/indexridge-global-urban-ndbi-dubai-built-surface-geotiff-sample-layer — Sentinel-2 derived NDBI built-surface GeoTIFF sample for global urban analytics and land-use GIS workflow testing, using a Dubai AOI.
 
 Source: Copernicus Sentinel-2 L2A imagery via Microsoft Planetary Computer STAC.
-Limitations: analytical samples only; not official/regulatory/legal/insurance/planning/financial data; no AWS Marketplace/Data Exchange approval claimed.
+Scope: regional sample AOI products across UK and non-UK locations; not full-planet, full-country, official, regulatory, legal, insurance, planning, or financial datasets; no AWS Marketplace/Data Exchange approval claimed.
