@@ -14,3 +14,5 @@ Landing page: https://1nfr457ruc7ur3.github.io/geospectral-data-portal/
 - [IndexRidge Global Urban NDBI Dubai Built-Surface GeoTIFF Sample Layer](https://indexridge.gumroad.com/l/indexridge-global-urban-ndbi-dubai-built-surface-geotiff-sample-layer) — £19
 
 Source imagery is Copernicus Sentinel-2 L2A via Microsoft Planetary Computer STAC. Products are regional sample AOIs across UK and non-UK locations, not full-planet, full-country, or regulatory datasets. Public copy deliberately makes no AWS Marketplace/Data Exchange approval, official/government, legal, insurance, planning, financial, regulatory, or guaranteed-accuracy claim.
+
+AI/automation disclosure: AI-assisted automation was involved in selecting, processing, collating, packaging, and publishing this dataset. It has not been checked, validated, or approved by a human operator before publication. Treat it as an unverified analytical sample and validate independently before use.
