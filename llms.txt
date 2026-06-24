@@ -1,6 +1,6 @@
 # IndexRidge global/regional Sentinel-derived GeoTIFF catalog
 
-Landing page: https://1nfr457ruc7ur3.github.io/geospectral-data-portal/
+Landing page: https://indexridge.github.io/geospectral-data-portal/
 
 Products:
 - IndexRidge UK Agricultural NDVI GeoTIFF Sample Layer (£19): https://indexridge.gumroad.com/l/indexridge-uk-agricultural-ndvi-geotiff-sample-layer — Sentinel-2 derived NDVI vegetation GeoTIFF sample layer with source metadata and processing notes.
