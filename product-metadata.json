@@ -1,13 +1,15 @@
 {
   "brand": "IndexRidge",
   "landing_page": "https://1nfr457ruc7ur3.github.io/geospectral-data-portal/",
-  "updated_at_utc": "2026-06-23T10:46:02Z",
+  "updated_at_utc": "2026-06-24T07:57:21Z",
   "source_rights": {
     "source": "Copernicus Sentinel-2 L2A imagery accessed through Microsoft Planetary Computer STAC",
     "policy_summary": "Copernicus Sentinel data is described as available on a free, full and open basis; commercial reuse is allowed under the Copernicus/Sentinel data policy, subject to source acknowledgement and no-warranty limitations.",
     "licence_reference": "https://ecds.ecmwf.int/licences/ec-sentinel",
     "access_reference": "https://www.copernicus.eu/en/terms-use/how-access-data"
   },
+  "ai_disclosure": "AI-assisted automation was involved in selecting, processing, collating, packaging, and publishing this dataset. It has not been checked, validated, or approved by a human operator before publication. Treat it as an unverified analytical sample and validate independently before use.",
+  "human_review_status": "not_checked_by_human_operator",
   "products": [
     {
       "key": "east_anglia_ndvi",
@@ -28,9 +30,11 @@
       "price_cents": 1900,
       "currency": "gbp",
       "files_count": 1,
-      "source_item_id": "S2B_MSIL2A_20260619T110619_R137_T31UCU_20260619T133614",
-      "selected_datetime": "2026-06-19T11:06:19.024000Z",
-      "selected_cloud_cover": 0.764507
+      "source_item_id": "S2A_MSIL2A_20260623T105711_R094_T31UCT_20260623T173411",
+      "selected_datetime": "2026-06-23T10:57:11.024000Z",
+      "selected_cloud_cover": 15.795584,
+      "ai_disclosure": "AI-assisted automation was involved in selecting, processing, collating, packaging, and publishing this dataset. It has not been checked, validated, or approved by a human operator before publication. Treat it as an unverified analytical sample and validate independently before use.",
+      "human_review_status": "not_checked_by_human_operator"
     },
     {
       "key": "east_anglia_ndmi",
@@ -51,9 +55,11 @@
       "price_cents": 1900,
       "currency": "gbp",
       "files_count": 1,
-      "source_item_id": "S2B_MSIL2A_20260619T110619_R137_T31UCU_20260619T133614",
-      "selected_datetime": "2026-06-19T11:06:19.024000Z",
-      "selected_cloud_cover": 0.764507
+      "source_item_id": "S2A_MSIL2A_20260623T105711_R094_T31UCT_20260623T173411",
+      "selected_datetime": "2026-06-23T10:57:11.024000Z",
+      "selected_cloud_cover": 15.795584,
+      "ai_disclosure": "AI-assisted automation was involved in selecting, processing, collating, packaging, and publishing this dataset. It has not been checked, validated, or approved by a human operator before publication. Treat it as an unverified analytical sample and validate independently before use.",
+      "human_review_status": "not_checked_by_human_operator"
     },
     {
       "key": "somerset_ndwi",
@@ -76,7 +82,9 @@
       "files_count": 1,
       "source_item_id": "S2B_MSIL2A_20260622T112109_R037_T30UWB_20260622T134132",
       "selected_datetime": "2026-06-22T11:21:09.024000Z",
-      "selected_cloud_cover": 15.932752
+      "selected_cloud_cover": 15.932752,
+      "ai_disclosure": "AI-assisted automation was involved in selecting, processing, collating, packaging, and publishing this dataset. It has not been checked, validated, or approved by a human operator before publication. Treat it as an unverified analytical sample and validate independently before use.",
+      "human_review_status": "not_checked_by_human_operator"
     },
     {
       "key": "west_midlands_ndbi",
@@ -99,7 +107,9 @@
       "files_count": 1,
       "source_item_id": "S2C_MSIL2A_20260525T110621_R137_T30UWD_20260525T144513",
       "selected_datetime": "2026-05-25T11:06:21.025000Z",
-      "selected_cloud_cover": 0.002191
+      "selected_cloud_cover": 0.002191,
+      "ai_disclosure": "AI-assisted automation was involved in selecting, processing, collating, packaging, and publishing this dataset. It has not been checked, validated, or approved by a human operator before publication. Treat it as an unverified analytical sample and validate independently before use.",
+      "human_review_status": "not_checked_by_human_operator"
     },
     {
       "key": "california_agriculture_ndvi",
@@ -122,7 +132,9 @@
       "files_count": 1,
       "source_item_id": "S2C_MSIL2A_20260619T183921_R070_T11SKA_20260619T233627",
       "selected_datetime": "2026-06-19T18:39:21.025000Z",
-      "selected_cloud_cover": 0.00066
+      "selected_cloud_cover": 0.00066,
+      "ai_disclosure": "AI-assisted automation was involved in selecting, processing, collating, packaging, and publishing this dataset. It has not been checked, validated, or approved by a human operator before publication. Treat it as an unverified analytical sample and validate independently before use.",
+      "human_review_status": "not_checked_by_human_operator"
     },
     {
       "key": "nile_delta_ndmi",
@@ -145,7 +157,9 @@
       "files_count": 1,
       "source_item_id": "S2A_MSIL2A_20260621T083741_R064_T36RUV_20260621T135611",
       "selected_datetime": "2026-06-21T08:37:41.024000Z",
-      "selected_cloud_cover": 16.884677
+      "selected_cloud_cover": 16.884677,
+      "ai_disclosure": "AI-assisted automation was involved in selecting, processing, collating, packaging, and publishing this dataset. It has not been checked, validated, or approved by a human operator before publication. Treat it as an unverified analytical sample and validate independently before use.",
+      "human_review_status": "not_checked_by_human_operator"
     },
     {
       "key": "lake_mead_ndwi",
@@ -168,7 +182,9 @@
       "files_count": 1,
       "source_item_id": "S2B_MSIL2A_20260618T181919_R127_T11SQV_20260618T220747",
       "selected_datetime": "2026-06-18T18:19:19.024000Z",
-      "selected_cloud_cover": 4.57467
+      "selected_cloud_cover": 4.57467,
+      "ai_disclosure": "AI-assisted automation was involved in selecting, processing, collating, packaging, and publishing this dataset. It has not been checked, validated, or approved by a human operator before publication. Treat it as an unverified analytical sample and validate independently before use.",
+      "human_review_status": "not_checked_by_human_operator"
     },
     {
       "key": "dubai_urban_ndbi",
@@ -191,7 +207,9 @@
       "files_count": 1,
       "source_item_id": "S2B_MSIL2A_20260621T064619_R020_T40RCN_20260621T104118",
       "selected_datetime": "2026-06-21T06:46:19.024000Z",
-      "selected_cloud_cover": 0.025972
+      "selected_cloud_cover": 0.025972,
+      "ai_disclosure": "AI-assisted automation was involved in selecting, processing, collating, packaging, and publishing this dataset. It has not been checked, validated, or approved by a human operator before publication. Treat it as an unverified analytical sample and validate independently before use.",
+      "human_review_status": "not_checked_by_human_operator"
     }
   ]
 }
