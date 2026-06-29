@@ -2,6 +2,8 @@
 
 Landing page: https://indexridge.github.io/geospectral-data-portal/
 
+Intro offer: code `WEEK1` gives 20% off eligible paid IndexRidge Gumroad products while the first 20 redemptions remain. It is a checkout discount only and does not change product scope, support, or limitations.
+
 - [Free Sentinel-2 NDVI GeoTIFF Mini Sample for QGIS/rasterio](https://indexridge.gumroad.com/l/indexridge-free-sentinel-2-ndvi-geotiff-mini-sample) — Free
 - [IndexRidge UK GIS GeoTIFF Starter Bundle — NDVI NDMI NDWI NDBI](https://indexridge.gumroad.com/l/indexridge-uk-gis-geotiff-starter-bundle) — £49
 - [IndexRidge Global AOI GeoTIFF Starter Bundle — Agriculture Water Urban](https://indexridge.gumroad.com/l/indexridge-global-aoi-geotiff-starter-bundle) — £49
@@ -17,7 +19,7 @@ Landing page: https://indexridge.github.io/geospectral-data-portal/
 
 AI/automation disclosure: AI-assisted automation was involved in selecting, processing, collating, packaging, and publishing this dataset. It has not been checked, validated, or approved by a human operator before publication. Treat it as an unverified analytical sample and validate independently before use.
 
-Products are regional sample AOIs/workflow packs, not official/regulatory datasets and not full global coverage.
+Products are regional sample AOIs/workflow packs, not official/regulatory datasets and not full global coverage. Distribution is Gumroad plus GitHub Pages only; the former AWS tenancy/S3/Data Exchange path has been taken down, and no third-party marketplace approval is claimed.
 
 Machine-readable resources:
 

@@ -20,6 +20,7 @@ Sitemap: https://indexridge.github.io/geospectral-data-portal/sitemap.xml
 
 AI/automation disclosure: AI-assisted automation was involved in selecting, processing, collating, packaging, and publishing this dataset. It has not been checked, validated, or approved by a human operator before publication. Treat it as an unverified analytical sample and validate independently before use.
 
-Scope: regional sample AOI workflow packs, not official/regulatory/full-global datasets.
+Scope: regional sample AOI workflow packs, not official/regulatory/full-global datasets. Distribution is Gumroad plus GitHub Pages only; the former AWS tenancy/S3/Data Exchange path has been taken down, and no third-party marketplace approval is claimed.
+Current checkout promotion: WEEK1 gives 20% off eligible paid IndexRidge Gumroad products while the first 20 redemptions remain; it is not a product-scope or outcome guarantee.
 
 Structured data: the landing page includes schema.org DataCatalog/Dataset JSON-LD for the public catalog and product pages.
